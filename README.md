@@ -1,4 +1,5 @@
-# CSCC01 A1
-Aster Wu
+# 6Degrees
 
-UTORID: wuaster
+Tech used: Neo4J, SpringBoot, Java
+
+AW
